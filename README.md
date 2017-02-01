@@ -3,6 +3,9 @@
 <b>Advanced File Name:</b>
 <br/>https://packagecontrol.io/packages/AdvancedNewFile
 
+<b>Alignment:</b>
+<br/>https://packagecontrol.io/packages/Alignment
+
 <b>AutoFileName:</b>
 <br/>https://packagecontrol.io/packages/AutoFileName
 
