@@ -28,6 +28,10 @@
 <b>Emmet:</b>
 <br/>https://packagecontrol.io/packages/Emmet
 
+<b>HTML-CSS-JS Prettify:</b>
+<br/>https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify
+Run: ctrl + shift + h
+
 <b>Live Style:</b>
 <br/>https://packagecontrol.io/packages/LiveStyle
 
