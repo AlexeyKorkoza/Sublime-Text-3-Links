@@ -6,6 +6,12 @@
 <b>Alignment:</b>
 <br/>https://packagecontrol.io/packages/Alignment
 
+<b>Angular 2 Snippets:</b>
+<br/>https://packagecontrol.io/packages/Angular%202%20Snippets%20(John%20Papa)
+
+<b>Angular2HTML Syntax:</b>
+<br/>https://packagecontrol.io/packages/Angular2%20HTML%20Syntax
+
 <b>AutoFileName:</b>
 <br/>https://packagecontrol.io/packages/AutoFileName
 
