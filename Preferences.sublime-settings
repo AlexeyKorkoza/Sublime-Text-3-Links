@@ -1,4 +1,15 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": " ",
+			"selector": "text.html meta.tag"
+		}
+	],
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Piatto Light (SL).tmTheme",

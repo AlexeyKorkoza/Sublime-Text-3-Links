@@ -10,7 +10,7 @@
 <br/>https://packagecontrol.io/packages/AngularJS
 
 <b>Angular 2 Snippets:</b>
-<br/>https://packagecontrol.io/packages/Angular%202%20Snippets%20(John%20Papa)
+<br/>https://github.com/evanplaice/angular2-snippets
 
 <b>Angular2HTML Syntax:</b>
 <br/>https://packagecontrol.io/packages/Angular2%20HTML%20Syntax
