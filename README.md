@@ -43,6 +43,7 @@ Run: ctrl + shift + h
 
 <b>Js Prettier</b>
 <br/>https://packagecontrol.io/packages/JsPrettier
+To run the JsPrettier command… open the Sublime Text Command Palette (super + shift + p) and type JsPrettier.
 
 <b>Live Style:</b>
 <br/>https://packagecontrol.io/packages/LiveStyle
