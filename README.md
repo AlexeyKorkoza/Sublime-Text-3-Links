@@ -41,6 +41,9 @@
 <br/>https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify
 Run: ctrl + shift + h
 
+<b>Js Prettier</b>
+<br/>https://packagecontrol.io/packages/JsPrettier
+
 <b>Live Style:</b>
 <br/>https://packagecontrol.io/packages/LiveStyle
 
